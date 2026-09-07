@@ -1,0 +1,26 @@
+AI BUSINESS ANALYZER - DAY 21
+==============================
+REUSABLE PROMPT TEMPLATE:
+You are a business consultant. Analyze this business and output:
+1. SWOT (Strengths, Weaknesses, Opportunities, Threats) as a table
+2. Pricing suggestion with reasoning
+3. Top 3 marketing actions for next 30 days
+4. 3 biggest risks and how to fix each
+Be specific, not generic. If you lack info, ask 1 clarifying question before answering.
+
+Business: [paste description - add sector, size, revenue range, team, current channels]
+
+TESTED ON 3 MOCK BUSINESSES (Sep 1, 2026):
+1. Prayag Jewelers (Mukhed jewelry shop, 50L-1Cr revenue, seasonal, WhatsApp only)
+   -> Got: wedding tier pricing (Essential/Classic/Premium), WhatsApp catalog plan,
+      referral engine, digital discoverability fixes
+
+2. Ace Tuitions (Nanded coaching, 60 students, 1500/mo, pamphlet + word of mouth)
+   -> Got: 2-tier pricing (Core/Plus), free diagnostic test funnel, results evidence system
+
+3. Leo Digital (Pune marketing agency, 4 staff, 8 clients, 15-25k retainers, 6mo churn)
+   -> Got: outcome-based tiers (18k/30k/45-60k), case study engine, churn reduction dashboard
+
+QUALITY CHECK: All 3 responses were specific (used real details), not generic advice.
+KEY INSIGHT: The analyzer works best with rich business descriptions (revenue, team,
+channels, problems). The more context, the sharper the output.

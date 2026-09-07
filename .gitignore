@@ -1,0 +1,11 @@
+# Secrets - never commit these
+.env
+*.key
+*api_key*
+*secret*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env.local

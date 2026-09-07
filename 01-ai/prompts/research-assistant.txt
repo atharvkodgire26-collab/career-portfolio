@@ -1,0 +1,23 @@
+AI RESEARCH ASSISTANT - DAY 18
+================================
+WORKFLOW: Perplexity finds sources -> Claude synthesizes into clean output.
+
+STEP 1 (Perplexity): Ask a research question. It returns real sources/links.
+
+STEP 2 (Claude): Paste this template with Perplexity's answer as [RAW INFO]:
+
+" You are a research synthesizer. Take the raw info below, identify the 3 most
+  important points, add your own insight about what they mean, and output:
+  (1) summary, (2) 3 key takeaways, (3) 1 action a small business owner should
+  take. Be concise.
+
+  [RAW INFO]
+  [paste Perplexity answer here] "
+
+EXAMPLE RESULT (tested Aug 27, 2026):
+Question: "What are the top 3 trends in small business marketing in 2026?"
+Perplexity found: AI hyper-personalization, short-form video, first/zero-party data (with Forbes/Hikit sources)
+Claude output: clean summary + 3 takeaways + 1 concrete action
+Action given: post 3-4 authentic vertical videos/week, CTA drives signups to an owned channel (email/SMS/WhatsApp/loyalty) - builds video presence + first-party data at once.
+
+USES: anyone can reuse this to research & synthesize any topic fast.
