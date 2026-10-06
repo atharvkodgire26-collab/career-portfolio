@@ -1,4 +1,5 @@
 # ATHARV'S AI CAREER PORTFOLIO
+**Landing page & booking:** [atharv-kodgire.carrd.co](https://atharv-kodgire.carrd.co)
 
 Month 1 of building a career in AI — 5 projects built, all tested.
 
