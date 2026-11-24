@@ -1,4 +1,9 @@
 # ATHARV'S AI CAREER PORTFOLIO
+### 🌐 Live Portfolio: [atharv-kodgire-automation.vercel.app](https://atharv-kodgire-automation.vercel.app)
+
+I build working automations that give small businesses back hours every week. 
+Tested on real data. Documented so you can change them yourself. 
+**First project free.**
 **Landing page & booking:** [atharv-kodgire.carrd.co](https://atharv-kodgire.carrd.co)
 
 I build AI tools and automations. Everything here runs.
